@@ -70,11 +70,7 @@ Bot ? Maybe
    ```
    nano accounts/accounts.js
    ```
-4. Configure the bot config
-   ```
-   nano config/config.js
-   ```
-5. To run Auto TX
+4. To run Auto TX
    ```
    npm run start
    ```
